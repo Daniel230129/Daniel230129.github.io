@@ -169,10 +169,10 @@ body {
 /* Ajuste del video */
 video {
     width: 100%;
-    max-height: 500px; /* Ajusta el tamaño máximo que necesites */
-    border-radius: 12px; /* Redondeado del borde */
+    max-height: 500px; 
+    border-radius: 12px; 
     overflow: hidden;
-    object-fit: cover; /* Ajuste dentro del contenedor */
+    object-fit: cover;
 }
 
 .card { 
