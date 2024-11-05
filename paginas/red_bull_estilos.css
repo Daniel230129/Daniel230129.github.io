@@ -135,10 +135,6 @@ body {
     object-fit: cover; 
 }
 
-#img_pistas img:hover {
-    transform: scale(1.03);
-}
-
 #Horner {
     display: flex;
     justify-content: space-between;
