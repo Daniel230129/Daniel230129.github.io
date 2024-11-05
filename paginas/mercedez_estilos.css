@@ -133,10 +133,6 @@ body {
     object-fit: cover; 
 }
 
-#img_pistas img:hover {
-    transform: scale(1.03);
-}
-
 #Wolf {
     display: flex;
     justify-content: space-between;
